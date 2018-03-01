@@ -1,5 +1,6 @@
-var daysofTheWeek =7;
+var daysOfTheWeek = 7;
 
-for (i=0; i<= daysofTheWeek; i++){
-console.log(i)
+for(i = 0; i<= daysOfTheWeek; i++;){
+	console.log(i)
+
 }
